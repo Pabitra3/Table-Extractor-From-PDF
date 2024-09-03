@@ -62,4 +62,4 @@ Contributions to improve the script or this documentation are welcome. Please fe
 
 ## License
 
-[Specify the license under which this script is released, e.g., MIT, GPL, etc.]
+The license under which this script is released, e.g., MIT.
